@@ -1,15 +1,17 @@
 import React from 'react'
+import "../css/components/Projects.css";
 
 const Projects = () => {
     return (
         <div>
-            <h3> These are my projects</h3>
+            <h3> My Projects</h3>
 
       <ul class="collection">
-                <li><a className="black-text text-lighten-3" href="https://mksahota10.github.io/Project-1---Trivia/">Trivia</a></li>
-                <li><a className="black-text text-lighten-3" href="https://drinkitup.herokuapp.com/">DrinkUp</a></li>
-                <li><a className="black-text text-lighten-3" href="#!">Project 3</a></li>
-                <li><a className="black-text text-lighten-3" href="#!">Project 4</a></li>
+                
+                <a class="first" href="https://mksahota10.github.io/Project-1---Trivia/" title="photo" id="photo">FINANCE TRIVIA</a>
+                <a class="second" href="https://drinkitup.herokuapp.com/" title="photo" id="photo">DRINK UP</a>
+                <li><a className="project" href="#!">Project 3</a></li>
+                <li><a className="project" href="#!">Project 4</a></li>
               </ul>
 
         </div>

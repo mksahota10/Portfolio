@@ -20,10 +20,12 @@ const Home = () => {
       <br></br>
       <br></br>
       <br></br>
+      
       <h1 class="home-title">
       <span><b>HI!</b></span>
       <h2> I'm Preet </h2>
       <h3>Full Stack-Developer</h3>
+      <h4>Curious | Observant | Proactive | Lifelong Learner</h4>
       <span></span>
       </h1>
       {/* <h2>Full-Stack Developer</h2> */}
