@@ -9,7 +9,7 @@ import About from "./components/About"
 import Projects from "./components/Projects"
 
 // CSS imports
-import "./css/App.css";
+//import "./css/App.css";
 //import "./css/Projects.css";
 
 

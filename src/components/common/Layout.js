@@ -1,5 +1,5 @@
 import React from 'react'
-import "../../css/components/Layout.css";
+//import "../../css/components/Layout.css";
 
 const Layout = (props) => {
     return (
@@ -8,7 +8,7 @@ const Layout = (props) => {
         
 
   <div> {props.children}</div>
-
+ 
 
         
         <footer className="page-footer">

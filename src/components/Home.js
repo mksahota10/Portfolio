@@ -1,11 +1,12 @@
 import React  from 'react'
-// import "../../css/components/Home.css";
+import "../css/components/Home.css"
 
 
 
 
 const Home = () => {
   return (
+   
     
     <div>
       <br></br>
@@ -22,6 +23,10 @@ const Home = () => {
       <br></br>
       
       <h1 class="home-title">
+      <div class="arrow">
+                <span></span>
+                
+</div>
       <span><b>HI!</b></span>
       <h2> I'm Preet </h2>
       <h3>Full Stack-Developer</h3>

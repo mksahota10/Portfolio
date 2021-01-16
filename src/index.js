@@ -5,7 +5,7 @@ import{BrowserRouter, Switch} from "react-router-dom"
 // Components imports
 import App from "./App";
 // CSS imports
-import "./css/index.css";
+//import "./css/index.css";
 
 // order, browser, Switch and app
 ReactDOM.render(
