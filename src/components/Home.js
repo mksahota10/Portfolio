@@ -4,11 +4,12 @@ import "../css/components/Home.css"
 
 
 
-const Home = () => {
+const Home = (props) => {
   return (
-   
+    <div id="wrapper">
     
     <div>
+      <div> {props.children}</div>
       <br></br>
       <br></br>
       <br></br>
@@ -22,23 +23,24 @@ const Home = () => {
       <br></br>
       <br></br>
       
-      <h1 class="home-title">
+       
       <div class="arrow">
-                <span></span>
-                
+                <span></span>               
+</div> 
+       
+
+
+<div class="title">
+ <h1>Hi<br/>There!</h1>
+
+ 
 </div>
-      <span><b>HI!</b></span>
       <h2> I'm Preet </h2>
       <h3>Full Stack-Developer</h3>
       <h4>Curious | Observant | Proactive | Lifelong Learner</h4>
       <span></span>
-      </h1>
-      {/* <h2>Full-Stack Developer</h2> */}
-      
-
-      
     </div>
-  
+    </div>
   )
 
   
