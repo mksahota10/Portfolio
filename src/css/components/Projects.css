@@ -1,14 +1,18 @@
 
 
 
-
+#photo{
+    font-size: 30px;
+    border: 1px solid gray;
+    padding:10px;
+    text-decoration: underline;
+}
 
 .first {
     background-image: url('https://www.utig.org/uploads/1/2/7/3/12737062/published/finance-trivia-hbb220.png?1566323042');
-    background-size: 200px;
+    background-size: 325px;
     background-repeat: no-repeat;
     background-position: center;
-    border-radius: 25%;
     background-clip: border-box;
     transition: background-size 0.1s;
     transition-timing-function: cubic-bezier(.07,1.41,.82,1.41);
@@ -18,20 +22,20 @@
     text-decoration: none;
     cursor: pointer;
     overflow: hidden;
-    text-indent: 100%;
     white-space:nowrap;
+    /* margin-left: 100px; */
 }
 
 .first:hover {
-    background-size: 100px;
+    background-size: 150px;
 }
+
 
 .second {
     background-image: url('https://www.maxim.com/.image/t_share/MTUwODg5MTM1MDY0NzU0MDA5/cocktails-promo.jpg');
-    background-size: 200px;
+    background-size: 350px;
     background-repeat: no-repeat;
     background-position: center;
-    border-radius: 25%;
     background-clip: border-box;
     transition: background-size 0.10s;
     transition-timing-function: cubic-bezier(.07,1.41,.82,1.41);
@@ -41,10 +45,52 @@
     text-decoration: none;
     cursor: pointer;
     overflow: hidden;
-    text-indent: 100%;
     white-space:nowrap;
+    /* margin-left: 100px; */
 }
 
 .second:hover {
-    background-size: 100px;
+    background-size: 150px;
+}
+.third {
+    background-image: url('https://www.maxim.com/.image/t_share/MTUwODg5MTM1MDY0NzU0MDA5/cocktails-promo.jpg');
+    background-size: 350px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-clip: border-box;
+    transition: background-size 0.10s;
+    transition-timing-function: cubic-bezier(.07,1.41,.82,1.41);
+    display: block;
+    width: 300px;
+    height: 300px;
+    text-decoration: none;
+    cursor: pointer;
+    overflow: hidden;
+    /* margin-left: 100px; */
+    white-space:nowrap;
+}
+
+.third:hover {
+    background-size: 150px;
+}
+.fourth {
+    background-image: url('https://www.maxim.com/.image/t_share/MTUwODg5MTM1MDY0NzU0MDA5/cocktails-promo.jpg');
+    background-size: 350px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-clip: border-box;
+    transition: background-size 0.10s;
+    transition-timing-function: cubic-bezier(.07,1.41,.82,1.41);
+    display: block;
+    /* margin-left: 100px; */
+    width: 300px;
+    height: 300px;
+    text-decoration: none;
+    cursor: pointer;
+    overflow: hidden;
+    /* white-space:nowrap; */
+}
+
+.fourth:hover {
+    background-size: 150px;
 }

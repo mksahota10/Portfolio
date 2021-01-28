@@ -21,8 +21,8 @@ const Projects = () => {
       <ul class="collection">
                 <a class="first" href="https://mksahota10.github.io/Project-1---Trivia/" title="photo" id="photo">FINANCE TRIVIA</a>
                 <a class="second" href="https://drinkitup.herokuapp.com/" title="photo" id="photo">DRINK UP</a>
-                <a class="second" href="https://drinkitup.herokuapp.com/" title="photo" id="photo">FOMO-NOMO</a>
-                <a class="second" href="https://drinkitup.herokuapp.com/" title="photo" id="photo">FOMO-NOMO</a>
+                <a class="third" href="https://drinkitup.herokuapp.com/" title="photo" id="photo">FOMO-NOMO</a>
+                <a class="fourth" href="https://drinkitup.herokuapp.com/" title="photo" id="photo">FOMO-NOMO</a>
               </ul>
             <br></br>
           <br></br>
@@ -36,20 +36,20 @@ const Projects = () => {
           <br></br>
           <br></br>
           <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          
+         
 
-          <br></br>
-          <br></br>
-          <br></br>
-          <br></br>
-          <br></br>
-          <br></br>
-          <br></br>
-          <br></br>
-          <br></br>
-          <br></br>
-          <br></br>
-          <br></br>
-
+       
 
         < Timeline/>
         </div>

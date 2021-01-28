@@ -4,6 +4,7 @@ import "../css/components/Home.css"
 
 
 
+
 const Home = (props) => {
   return (
     <div id="wrapper">
@@ -25,12 +26,13 @@ const Home = (props) => {
       
        
       <div class="arrow">
-                <span></span>               
+                <span></span> 
+                             
 </div> 
        
 
 
-<div class="title">
+<div class="titlemain">
  <h1>Hi<br/>There!</h1>
 
  
@@ -41,6 +43,7 @@ const Home = (props) => {
       <span></span>
     </div>
     </div>
+    
   )
 
   
