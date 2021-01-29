@@ -803,8 +803,8 @@ button{
 }
 
 .svg-wrap a svg {
-    width: 20px;
-    height: 20px;
+    width: 40px;
+    height: 40px;
     fill: white;
     transition: fill 0.2s ease-in-out;
     margin-right: 13px;
@@ -833,7 +833,7 @@ button{
 margin-right: -400px;
 background-position: center; 
 padding: 0px 0px 1px 0px;
-height: 200px;
+
 }
 
 .skills{
@@ -841,9 +841,7 @@ height: 200px;
   color:gray; 
   margin-top:25px;
 }
-.image-container{
 
-}
 
 
 .image1 {
@@ -858,7 +856,7 @@ height: 200px;
   height: 100px; 
   text-decoration: none;
   cursor: pointer;
-  overflow: scroll;
+  overflow: hidden;
   text-indent: 50%; 
   background-position: center; 
   
@@ -882,7 +880,7 @@ height: 200px;
   height: 100px;
   text-decoration: none;
   cursor: pointer;
-  overflow: scroll;
+  overflow: hidden;
   text-indent: 100%;  
   margin-top: 30px;
 }
@@ -904,7 +902,7 @@ height: 200px;
   height: 100px;
   text-decoration: none;
   cursor: pointer;
-  overflow: scroll;
+  overflow: hidden;
   text-indent: 100%;  
   
 }
@@ -925,7 +923,7 @@ height: 200px;
   height: 100px;
   text-decoration: none;
   cursor: pointer;
-  overflow: scroll;
+  overflow: hidden;
   text-indent: 100%; 
   
 }
@@ -947,7 +945,7 @@ height: 200px;
   height: 100px;
   text-decoration: none;
   cursor: pointer;
-  overflow: scroll;
+  overflow: hidden;
   text-indent: 100%; 
   
 }
@@ -968,7 +966,7 @@ height: 200px;
   height: 100px;
   text-decoration: none;
   cursor: pointer;
-  overflow: scroll;
+  overflow: hidden;
   text-indent: 100%; 
 }
 
@@ -988,7 +986,7 @@ height: 200px;
   height: 100px;
   text-decoration: none;
   cursor: pointer;
-  overflow: scroll;
+  overflow: hidden;
   text-indent: 100%; 
   
 }
@@ -1009,7 +1007,7 @@ height: 200px;
   height: 100px;
   text-decoration: none;
   cursor: pointer;
-  overflow: scroll;
+  overflow: hidden;
   text-indent: 100%;
   
 }
@@ -1030,7 +1028,7 @@ height: 200px;
   height: 100px;
   text-decoration: none;
   cursor: pointer;
-  overflow: scroll;
+  overflow: hidden;
   text-indent: 100%; 
   
 }
@@ -1051,7 +1049,7 @@ height: 200px;
   height: 100px;
   text-decoration: none;
   cursor: pointer;
-  overflow: scroll;
+  overflow: hidden;
   text-indent: 100%; 
   
 }
@@ -1072,7 +1070,7 @@ height: 200px;
   height: 100px;
   text-decoration: none;
   cursor: pointer;
-  overflow: scroll;
+  overflow: hidden;
   text-indent: 100%; 
    
 }
@@ -1093,7 +1091,7 @@ height: 200px;
   height: 100px;
   text-decoration: none;
   cursor: pointer;
-  overflow: scroll;
+  overflow: hidden;
   text-indent: 100%; 
   
  
@@ -1115,7 +1113,7 @@ height: 200px;
   height: 100px;
   text-decoration: none;
   cursor: pointer;
-  overflow: scroll;
+  overflow: hidden;
   text-indent: 100%; 
   
   
@@ -1137,8 +1135,9 @@ height: 200px;
   height: 100px;
   text-decoration: none;
   cursor: pointer;
-  overflow: scroll;
+  overflow: hidden;
   text-indent: 100%; 
+
   
 }
 
@@ -1158,7 +1157,7 @@ height: 200px;
   height: 100px;
   text-decoration: none;
   cursor: pointer;
-  overflow: scroll;
+  overflow: hidden;
   text-indent: 100%; 
  
 }
