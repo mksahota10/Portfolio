@@ -18,32 +18,31 @@ import React from 'react';
 
 const TimeLine = () => {
   return (
-    
        <div className="main">
-        <h1>Skills</h1>
-        <div className="wrapper">
-          
+        
+    <div className="skills">
+        <h3>SKILLS</h3></div>
           <div className="image-container">
-            <div className="image1" id="skill">JavaScript</div>
-            <div className="image2">2</div>
-            <div className="image3">3</div>
-            <div className="image4">4</div>
+            <div className="image1"></div>
+            <div className="image2"></div>
+            <div className="image3"></div>
+            <div className="image4"></div>
             {/* <div className="image5">5</div> */}
-            <div className="image6">6</div>
-            <div className="image7">7</div>
-            <div className="image8">8</div>
-            <div className="image9">9</div>
-            <div className="image10">10</div>
-            <div className="image11">11</div>
-            <div className="image12">12</div>
-            <div className="image13">13</div>
-            <div className="image14">14</div>
-            <div className="image15">14</div>
-            <div className="image16">14</div>
+            <div className="image6"></div>
+            <div className="image7"></div>
+            <div className="image8"></div>
+            <div className="image9"></div>
+            <div className="image10"></div>
+            <div className="image11"></div>
+            <div className="image12"></div>
+            <div className="image13"></div>
+            <div className="image14"></div>
+            <div className="image15"></div>
+            <div className="image16"></div>
           </div>
-         
-        </div>
-      </div>
+         </div>
+        
+     
     
   )
 }
