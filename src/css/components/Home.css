@@ -586,11 +586,11 @@ h1 {
    position: absolute; 
   top: 0;
   left: 0;
-  width: 48vw;
+  width: 52vw;
   height: 101vh;
   background-image: url(https://i.postimg.cc/zb1tqM5j/portfoliopic.jpg);
   background-size: cover;
-  -webkit-filter: blur(10px);
+  -webkit-filter: blur(3px);
   z-index: -1;
 } 
 
@@ -677,7 +677,7 @@ a:hover {
 
 .contentc{
   margin-top: 250px;
-  margin-right:-160px;
+  margin-right:-175px;
 
 }
 
