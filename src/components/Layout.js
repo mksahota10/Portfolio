@@ -1,5 +1,6 @@
 import React from 'react'
 //import "../../css/components/Layout.css";
+import Timeline from "./Timeline";
 
 const Layout = (props) => {
     return (
@@ -20,8 +21,7 @@ const Layout = (props) => {
           </div>
           </div>
         
-        {/* <div className="footer-copyright">
-          © 2020 Copyright Text</div> */}
+      
          
       </footer>
       </>

@@ -1,17 +1,5 @@
 import React from 'react';
-// import {
-//   Timeline,
-//   Events,
-//   UrlButton,
-//   ImageEvent,
-//   TextEvent,
-//   YouTubeEvent,
-// } from '@merc/react-timeline';
-// import {
-//   ScrollingProvider,
-//   useScrollSection,
-//   Section,
-// } from 'react-scroll-section'
+
 
 
 
@@ -22,7 +10,9 @@ const TimeLine = () => {
         
     <div className="skills">
         <h3>SKILLS</h3></div>
-          <div className="image-container">
+        
+        
+          <div id="image-container">
             <div className="image1"></div>
             <div className="image2"></div>
             <div className="image3"></div>
@@ -38,12 +28,9 @@ const TimeLine = () => {
             <div className="image13"></div>
             <div className="image14"></div>
             <div className="image15"></div>
-            <div className="image16"></div>
+            
+          </div> 
           </div>
-         </div>
-        
-     
-    
   )
 }
 
