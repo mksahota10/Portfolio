@@ -99,7 +99,7 @@
 
 /* Skills Section */
 .collection{
-    /* margin-top: -100px; */
+    margin-top: -75px;
   }
   
   .main {
@@ -108,6 +108,7 @@
   background-position: center; 
   margin-left:7%;
   width:120%!important;
+ 
   }
   
   .skills{
@@ -115,8 +116,10 @@
     color:gray; 
     /* margin-top:25px; */
   }
+
   .image-container{
-  
+  margin-top:100px;
+ 
   
   }
   
@@ -377,7 +380,7 @@
   .image13:hover {
     background-size: 75px;
   }
-  .image14 {
+  /* .image14 {
     background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-OzfnwHsLFCc0t4GbYkjWhEw35y3A4au3KQ&usqp=CAU');
     background-size: 50px;
     background-repeat: no-repeat;
@@ -396,7 +399,7 @@
   
   .image14:hover {
     background-size: 75px;
-  }
+  } */
   /* .image15 {
     background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAW8AAACJCAMAAADUiEkNAAAAaVBMVEX///8AAACtra0RERG2trZqamrq6uq5ubnj4+M7OzuWlpbm5uZwcHD09PRSUlLw8PBMTEweHh6Kiop/f39YWFiQkJDNzc1DQ0OBgYGenp4tLS1lZWW+vr4KCgqGhobGxsba2to0NDQbGxv2TWGvAAACgUlEQVR4nO3dbVPaQBRA4aBRQEG0QnlTa/v/f2Q700/J3dk1khwgc57Pue7ukRkYIlhVkiRJkiRJqpZJ597VeO0mKfW5tzVaP5K9p+fe1mjZm2Vvlr1Z++1zw8HeqL29UfYe1ub9peHW3oPy+ZJlb5a9WR/2Rr1tHhrW9kb5enBYy1XDcmPvQaXf/7b3UHx9wrI3y94se7P2z0/R9te5tyUhppPbyzd5jBtv73sSL5nxZ3vfFntfg1TvtlRv3tzeKHuz7M2yN8veLHuz7M2yN8veLHuz7M2yN8veLHuz7M3q3Hufv34Rl8gPLOPAR35iEyd66/2QXzrx1zr5gbCNzr0LO0r0zn9aeRUHXvNLJG5x99Z7k1/6NU6ssgPh0WRve9vb3v+Ns/cuv8Rl9c6f7hy9Z/c5n3FgscoNrBKH7q33Lr904nSf2dOFJYDegBG//rb3SezNsjfL3ix7s+zNsjfL3ix7s+zNsjfL3ix7s+zNsjfr9/C97wrWYU+L/MDipT3RW+95aek/7Ylj6XhNhXuFffQurFD9bA8U7qdVVfgNUffTqmrbnuj5u+kHv3+Z6F16DFxU7/z94s7s3WRve9v7+67j+fI+XvOFbTz20Xvo58u7aZ0xfYpnuMkN/BsJf++6zi5R12/z9sQ+XhO28Rau2ce9HktLHzqeLvyArr11koO9UeP4fMP1sDfL3ix7s+zNsjfL3ix7s+zNsjfL3ix7s+zNsjer8/uxx/pG31f6T/Ndv/9Ep+l6/1KnsTfL3ix7s+zNsjfL3ix7s+zNsjfL3ix7s+zNsjfL3ix7s+zNsjfL3ix7s+zNqtu9i58I1SmWs5aeP78sSZIkSZIkfdFfuWNu5tDrsCEAAAAASUVORK5CYII=');
     background-size: 50px;
@@ -417,3 +420,15 @@
   .image15:hover {
     background-size: 75px;
   } */
+  
+  #code{
+    margin-top:20%;
+    
+    
+  }
+  #code1{
+    margin-top:20%;
+  }
+  #code2{
+    margin-top:20%;
+  }

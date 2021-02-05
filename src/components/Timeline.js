@@ -27,7 +27,7 @@ const TimeLine = () => {
             <div className="image12"></div>
             <div className="image13"></div>
             <div className="image14"></div>
-            <div className="image15"></div>
+            
             
           </div> 
           </div>
