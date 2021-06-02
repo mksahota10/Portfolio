@@ -75,7 +75,7 @@
     background-size: 150px;
 }
 .fourth {
-    background-image: url('https://www.maxim.com/.image/t_share/MTUwODg5MTM1MDY0NzU0MDA5/cocktails-promo.jpg');
+    background-image: url('https://i.postimg.cc/pT4gMgw3/Screen-Shot-2021-04-10-at-4-51-16-PM.png');
     background-size: 350px;
     background-repeat: no-repeat;
     background-position: center;
@@ -85,7 +85,7 @@
     display: block;
     /* margin-left: 100px; */
     width: 250px;
-    height: 2500px;
+    height: 250px;
     text-decoration: none;
     cursor: pointer;
     overflow: hidden;
@@ -103,10 +103,10 @@
   }
   
   .main {
-  background: linear-gradient( rgb(36, 51, 66), rgba(88, 104, 119, 0.81));
+  /* background: linear-gradient( rgb(36, 51, 66), rgba(88, 104, 119, 0.81)); */
   margin-top: 360px;
   background-position: center; 
-  margin-left:7%;
+  margin-left:15%;
   width:120%!important;
  
   }
@@ -117,9 +117,10 @@
     /* margin-top:25px; */
   }
 
-  .image-container{
-  margin-top:100px;
- 
+  #image-container{
+  
+  /* background: linear-gradient( rgb(36, 51, 66), rgba(88, 104, 119, 0.81)); */
+  margin-bottom: auto;
   
   }
   

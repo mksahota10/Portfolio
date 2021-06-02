@@ -19,7 +19,7 @@ const About = () => {
  <br></br>
  <a target="_blank" href="https://drive.google.com/file/d/1uO5CtL4t1kbei6RQ6TUNxnuJBxjJog3M/view?usp=sharing" class="white-mode">View My Resume</a>
  <div id="image">
- {/* <img src='https://i.postimg.cc/zb1tqM5j/portfoliopic.jpg' alt='portfoliopic'/>  */}
+  {/* <img src='https://i.postimg.cc/NFw5ztrq/IMG-2220.jpg' alt='portfoliopic'/>  */}
 </div>
 </div>
 

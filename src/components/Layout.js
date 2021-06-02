@@ -1,6 +1,6 @@
 import React from 'react'
 //import "../../css/components/Layout.css";
-import Timeline from "./Timeline";
+
 
 const Layout = (props) => {
     return (
