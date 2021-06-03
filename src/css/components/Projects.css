@@ -1,48 +1,60 @@
 
 
-
 #photo{
-    font-size: 25px;
-    border: 1px solid gray;
-    /* padding:10px; */
-    text-decoration: underline;
+    
+    border: 2px solid gray;
+    
+    
     
 }
 
+.projecttitle{
+  font-family: "Montserrat"; 
+  margin-top: 10%;
+  margin-left:300px;
+}
+#projectname{
+  margin-right:10px;
+  font-size: 15px;
+  color:#00868B; 
+}
+
+
+
 .first {
     background-image: url('https://i.postimg.cc/QdQth5VZ/Screen-Shot-2021-01-29-at-3-12-26-PM.png');
-    background-size: 325px;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-clip: borderbox;
-    transition: background-size 0.1s;
-    transition-timing-function: cubic-bezier(.07,1.41,.82,1.41);
-    display: block;
-    width: 250px;
-    height: 250px;
-    text-decoration: none;
-    cursor: pointer;
-    /* overflow: hidden; */
-    /* white-space:nowrap; */
-    /* margin-left: 100px; */
-}
-
-.first:hover {
-    background-size: 150px;
-}
-
-
-.second {
-    background-image: url('https://www.maxim.com/.image/t_share/MTUwODg5MTM1MDY0NzU0MDA5/cocktails-promo.jpg');
-    background-size: 325px;
+    background-size: 200px;
     background-repeat: no-repeat;
     background-position: center;
     background-clip: border-box;
     transition: background-size 0.10s;
     transition-timing-function: cubic-bezier(.07,1.41,.82,1.41);
-    display: block;
-    width: 250px;
-    height: 250px;
+    width: 150px; 
+     height: 150px;
+    text-decoration: none;
+    cursor: pointer;
+    overflow: hidden;
+    white-space:nowrap;
+    margin-left: 100px;
+    
+}
+.first:hover {
+  background-size: 150px;
+}
+
+
+
+
+.second {
+    background-image: url('https://www.maxim.com/.image/t_share/MTUwODg5MTM1MDY0NzU0MDA5/cocktails-promo.jpg');
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-clip: border-box;
+    transition: background-size 0.10s;
+    transition-timing-function: cubic-bezier(.07,1.41,.82,1.41);
+    width: 150px; 
+     height: 150px;
     text-decoration: none;
     cursor: pointer;
     overflow: hidden;
@@ -55,15 +67,14 @@
 }
 .third {
     background-image: url('https://i.postimg.cc/3RBmRVR7/Screen-Shot-2021-01-29-at-3-07-11-PM.png');
-    background-size: 325px;
+    background-size: 200px;
     background-repeat: no-repeat;
     background-position: center;
     background-clip: border-box;
     transition: background-size 0.10s;
     transition-timing-function: cubic-bezier(.07,1.41,.82,1.41);
-    display: block;
-    width: 250px;
-    height: 250px;
+    width: 150px; 
+     height: 150px;
     text-decoration: none;
     cursor: pointer;
     overflow: hidden;
@@ -76,16 +87,14 @@
 }
 .fourth {
     background-image: url('https://i.postimg.cc/pT4gMgw3/Screen-Shot-2021-04-10-at-4-51-16-PM.png');
-    background-size: 350px;
+    background-size: 200px;
     background-repeat: no-repeat;
     background-position: center;
     background-clip: border-box;
     transition: background-size 0.10s;
     transition-timing-function: cubic-bezier(.07,1.41,.82,1.41);
-    display: block;
-    /* margin-left: 100px; */
-    width: 250px;
-    height: 250px;
+    width: 150px; 
+    height: 150px;
     text-decoration: none;
     cursor: pointer;
     overflow: hidden;
@@ -97,32 +106,34 @@
 }
 
 
-/* Skills Section */
-.collection{
-    margin-top: -75px;
-  }
+/* Skills Section */ 
+ .collection{
+    margin-top: 100px;
+   
+  } 
   
   .main {
-  /* background: linear-gradient( rgb(36, 51, 66), rgba(88, 104, 119, 0.81)); */
-  margin-top: 360px;
+  background: linear-gradient( rgb(36, 51, 66), rgba(88, 104, 119, 0.81));
+  margin-top: 380px;
   background-position: center; 
-  margin-left:15%;
   width:120%!important;
+  margin-left:60px;
  
   }
+  
   
   .skills{
     font-size: 10px;
     color:gray; 
-    /* margin-top:25px; */
+  
   }
 
-  #image-container{
+  /* #image-container{
   
   /* background: linear-gradient( rgb(36, 51, 66), rgba(88, 104, 119, 0.81)); */
-  margin-bottom: auto;
-  
-  }
+  /* margin-bottom: auto;
+   */
+
   
   
   
@@ -423,13 +434,9 @@
   } */
   
   #code{
-    margin-top:20%;
-    
-    
+    margin-top:10%;
+     margin-bottom:20%;
+     margin-left: -7%!important;
+    border: 1.5px solid #1bf1dc;;
   }
-  #code1{
-    margin-top:20%;
-  }
-  #code2{
-    margin-top:20%;
-  }
+  
