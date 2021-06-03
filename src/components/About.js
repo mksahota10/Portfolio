@@ -17,7 +17,7 @@ const About = () => {
   </p>
  </div>
  <br></br>
- <a target="_blank" href="https://drive.google.com/file/d/1uO5CtL4t1kbei6RQ6TUNxnuJBxjJog3M/view?usp=sharing" class="white-mode">View My Resume</a>
+ <a target="_blank" href="https://drive.google.com/file/d/11Mw8UoTXTtIYDz-Rx-JJUerE6kg58-52/view?usp=sharing" class="white-mode">View My Resume</a>
  <div id="image">
   {/* <img src='https://i.postimg.cc/NFw5ztrq/IMG-2220.jpg' alt='portfoliopic'/>  */}
 </div>
